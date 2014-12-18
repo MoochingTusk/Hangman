@@ -1,4 +1,4 @@
 Hangman
 =======
 
-A simple handman game (very much still in development)
+A simple handman game was trying out Cordova (very much still in development)

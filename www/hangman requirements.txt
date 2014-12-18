@@ -1,0 +1,13 @@
+Hangman Requirments
+====================
+
+- As the host, I should be able to select a word
+- As the host, I should be able to enter the letter given by the contestent
+- As the contestent, I should be able to see the number of letters in the word(s)
+- As the host/contestent, I should be able to see if the letter is there.
+    If the letter is not present, the next stage of the hangman should become visible.
+    If the letter is present, it should appear in the word.
+- As the host/contestent, I should be able to see which successful letters have been chosen.
+- As the host/contestent, I should be able to see which unsuccessful letters have been chosen. These should have a strikethrough.
+- As the host, I should recieve a warning if the letter I've entered has already been chosen.
+- As the host, I should recieve a warning if I enter an invalid character.
